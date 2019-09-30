@@ -1,0 +1,6 @@
+- workspace,
+- battery,
+- volume, 
+- date/time,
+- internet,
+- spotify,
